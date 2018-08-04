@@ -1,0 +1,1 @@
+This is following on from Microsoft's starter pack for developing react native apps with typescript with some adjustments.
