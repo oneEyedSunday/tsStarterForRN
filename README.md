@@ -1,1 +1,1 @@
-This is following on from Microsoft's starter pack for developing react native apps with typescript with some adjustments.
+This is following on from Microsoft's <a href="https://github.com/Microsoft/TypeScript-React-Native-Starter">starter pack</a> for developing react native apps with typescript with some adjustments.
